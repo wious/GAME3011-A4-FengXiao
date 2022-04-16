@@ -1,0 +1,27 @@
+fileFormatVersion: 2
+guid: 5881288d7a0964c489451a06e821ca11
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Bellyn
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 64883b31c9d41ae49932d90cda83ff8c, type: 3}
+  - {fileID: 12800000, guid: 116b826f464219d4b85fb42eb72a85e0, type: 3}
+  - {fileID: 12800000, guid: c583720c058552246b6262baf55207b9, type: 3}
+  - {fileID: 12800000, guid: 530dee0fb3e577141849eabd513b08a5, type: 3}
+  - {fileID: 12800000, guid: 95e70e69d4d1335438cadee163fb0775, type: 3}
+  - {fileID: 12800000, guid: 6106ec9f36529a14d94eb80beefc26ac, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
